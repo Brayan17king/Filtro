@@ -1,0 +1,14 @@
+{
+    "Brayan": {
+        "fecha": {
+            "dia": 15,
+            "mes": 5,
+            "a\u00f1o": 2024
+        },
+        "hora": {
+            "hora": 8,
+            "minuto": 30
+        },
+        "motivo": "Dolor abdominal"
+    }
+}
